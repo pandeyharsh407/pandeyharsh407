@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python for Data Science, Django, Docker, Hive, Hadoop**
 
-- 👯 I’m looking to collaborate on **Hand written text recognition**
+- 👯 I’m looking to collaborate on project:- **Hand written text recognition**
 
 - 💬 Ask me about **C/C++, Data Structures, Algorithms, Operating Systems, Data Base, Distributed Systems, Computer Networking**
 
 - 📫 Reach me at **pandeyharsh407@gmail.com**
 
-- 📄 Know about my experiences [---Resume Link---](---Resume Link---)
+- 📄 Know about my experiences [--- Resume Link ---](https://pandeyharsh407.github.io/PortfolioLive/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyharsh407&show_icons=true&locale=en&layout=compact" alt="pandeyharsh407" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeyharsh407&show_icons=true&locale=en" alt="pandeyharsh407" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeyharsh407&show_icons=true&locale=en" alt="pandeyharsh407" /></p> -->
