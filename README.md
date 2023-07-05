@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyharsh407&label=Profile%20views&color=0e75b6&style=plastic" alt="pandeyharsh407" /> </p>
 
-<! --<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyharsh407" alt="pandeyharsh407" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyharsh407" alt="pandeyharsh407" /></a> </p> -->
 
 - 🔭 I’m currently working on **Hand written text recognition**
 
