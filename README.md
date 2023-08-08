@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **pandeyharsh407@gmail.com**
 
-- 📄 Know about my experiences [--- Resume Link ---](https://pandeyharsh407.github.io/PortfolioLive/)
+- 📄 Know about my experiences [Resume](https://pandeyharsh407.github.io/PortfolioLive/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
