@@ -14,7 +14,7 @@
 - 🌱 Currently deepening expertise in **Microsoft Fabric · Unity Catalog · Delta Lake · dbt · Semantic Link**
 - 💬 Ask me about **PySpark · SQL · ADF · Power BI · Microsoft Fabric · Azure Data Stack · Data Modelling**
 - 📫 Reach me at **pandeyharsh407@gmail.com**
-- 📄 View my [Portfolio & Resume](https://pandeyharsh407.github.io/PortfolioLive/)
+- 📄 View my [Portfolio & Resume](https://pandeyharsh407.github.io/Portfolio/)
 
 ---
 
